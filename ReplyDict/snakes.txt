@@ -20,5 +20,9 @@
   "Majoram":"http://www.dafont.com/majoram.font",
   "Clarendon":"https://www.myfonts.com/fonts/bitstream/clarendon/",
   "Kings Caslon":"http://www.myfonts.com/fonts/daltonmaag/kings-caslon/",
+  "Gill Sans":"http://www.myfonts.com/fonts/adobe/gill-sans/",
+  "Octin College":"http://www.myfonts.com/fonts/typodermic/octin-college/",
+  "Insignia":"http://www.myfonts.com/fonts/linotype/insignia/",
+  
 }
 
